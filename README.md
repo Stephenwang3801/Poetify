@@ -4,4 +4,6 @@ Poetify is an artificial neural network written in Python on Jupyter Notebook, u
 # Contributors
 This project was co-developed by David Tran (www.github.com/davidtran001), Stephen Wang (www.github.com/Stephenwang3801), William Sati (www.github.com/WilliamSati), and Percy Wang (www.github.com/junwjie).
 
-More about the project regarding models, data processing, and architecture can be found here: https://github.com/Stephenwang3801/Poetify/blob/main/Poetify%20Desc.pdf
+
+
+More about the project regarding models, data processing, and architecture can be found HERE: https://github.com/Stephenwang3801/Poetify/blob/main/Poetify%20Desc.pdf
